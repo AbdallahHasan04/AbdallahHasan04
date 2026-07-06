@@ -4,15 +4,19 @@
 
 👉 **Frontend & Mobile Development**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 👉 **Backend & Systems Engineering**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly_8086-AAA?style=for-the-badge&logo=processor&logoColor=black)
 
 👉 **Databases & Tools**
@@ -27,7 +31,7 @@
 * Building a full-stack employee web application featuring a responsive **Angular** user interface interacting with an enterprise-grade **ASP.NET Core Web API**.
 * *Tech Stack:* Angular, C#, ASP.NET Core, SQL
 
-📂 **[SQL-Execution-Engine-with-Join-Algorithm-Evaluation](https://github.com/AbdallahHasan04/SQL-Execution-Engine-with-Join-Algorithm-Evaluation)**
+📂 **[SQL-Execution-Engine-with-Join-Algorithm-Evaluation](https://github.com/AbdallahHasan04/SQL-Execution-Engine-with-Join-Algorithm-Evaluation-)**
 * Developed a custom SQL query execution engine completely from scratch in Python. Capable of parsing and executing SELECT queries, featuring localized implementations and performance benchmarking of join algorithms (Nested-Loop Join and Hash Join).
 * *Tech Stack:* Python, Database Internals
 
@@ -37,7 +41,7 @@
 
 📂 **[Music-Player-Mobile-Application-](https://github.com/AbdallahHasan04/Music-Player-Mobile-Application-)**
 * Designed a mobile music player application featuring standard secure authentication flows (signup/login), playlist structural management, cloud storage integration, audio playback controls, and a responsive themed user interface.
-* *Tech Stack:* Flutter, Dart, Cloud Storage
+* *Tech Stack:* Flutter, Dart, Firebase
 
 📂 **[Vehicle-Rental-Service-Database-Design-Implementation-Scenario-](https://github.com/AbdallahHasan04/Vehicle-Rental-Service-Database-Design-Implementation-Scenario-)**
 * Modeled and implemented a complex, normalized relational database layout designed for a large-scale vehicle rental enterprise scenario. Produced entity-relationship diagrams (ERDs), relational schemas, and advanced optimization query structures.
