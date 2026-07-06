@@ -2,7 +2,5 @@
 
 [![Repo Card](https://vercel.app)](https://github.com)
 
-### 📊 Top Languages
-My overall language distribution across all repositories:
-
-[![Top Langs](https://vercel.app)](https://github.com)
+### 📊 My Language Distribution
+[![Abdallah's Languages](https://onrender.com)](https://github.com)
