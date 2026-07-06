@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Abdallah
 
-[![Repo Card](https://vercel.app)](https://github.com)
+📊 Account Language Metrics
 
-### 📊 My Language Distribution
-[![Abdallah's Languages](https://onrender.com)](https://github.com)
+[![Abdallah's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahHasan04&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
